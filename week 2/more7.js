@@ -1,0 +1,1 @@
+let vehicle = ["motorbike", "caravan", "bike"]
